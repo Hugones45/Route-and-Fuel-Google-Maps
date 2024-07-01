@@ -5,8 +5,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-build": "npm install --production --frozen-lockfile"
+    "lint": "next lint"
   },
   "dependencies": {
     "@reach/combobox": "^0.16.5",
